@@ -1,0 +1,30 @@
+ html {
+    scroll-behavior: smooth;
+}
+
+.search__page--container {
+    display: flex;
+    flex-direction: column;
+}
+
+.search__page--nav {
+    margin-bottom: 50px;
+}
+
+.search__page--search__bar {
+   margin: 0 auto;
+   padding-top: 24px;
+   width: 100%;
+   max-width: 500px;
+   
+}
+
+.search__page--description {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+}
+
+
+
+

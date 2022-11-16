@@ -1,0 +1,48 @@
+.nav {
+    padding-bottom: 100px;
+}
+
+.movie__info--container {
+    height: 100vh;
+    padding: 24px;
+}
+
+.movie__info--wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.movie__info--description {
+    width: 40%;
+}
+
+.movie__runtime {
+    padding-bottom: 12px;
+}
+
+.movie__genre {
+    padding-bottom: 12px;
+}
+
+.movie__release {
+    padding-bottom: 12px;
+}
+
+.movie__actors {
+    padding-bottom: 12px;
+}
+
+.movie__info--year {
+    padding-bottom: 12px;
+}
+
+.movie__plot {
+    padding-bottom: 12px;
+}
+
+@media (max-width: 550px) {
+    .movie--info__img {
+        width: 200px;
+        height: 400px;
+    }
+}
